@@ -1,7 +1,8 @@
-# SE-Assignment-6
- Assignment: Introduction to Python
+
+Assignment: Introduction to Python
 Instructions:
-Answer the following questions based on your understanding of Python programming. Provide detailed explanations and examples where appropriate.
+Answer
+  the following questions based on your understanding of Python programming. Provide detailed explanations and examples where appropriate.
 
  Questions:
 
